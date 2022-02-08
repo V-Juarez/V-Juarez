@@ -1,4 +1,4 @@
- Hi there 👋, I'm  <span style="font-size: 1.8rem">V-Juarez</span> programador en Python & Javascript.
+ Hi there 👋, I'm  <span style="font-size:1.8rem">V-Juarez</span> programador en Python & Javascript.
 
 - 🌱 I’m currently learning React
 
